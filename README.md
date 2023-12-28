@@ -1,19 +1,18 @@
 # Hangman
 # Table of Contents
-1. [Introduction](#introduction)
-2. [Section 1](#section-1)
-    - [Subsection 1.1](#subsection-1.1)
-    - [Subsection 1.2](#subsection-1.2)
-
 
 ## Introduction
+Hangman game deployed to Git. The aim of this project is to display a basic aptitude for algorithmic thinking, and
+to display deployment and version control via distributed playforms (Git & GitHub), aided by orchestration with a
+command-line interface.
+
+## Installation
 Content here...
 
-## Section 1
+## Usage
 Content here...
 
-### Subsection 1.1
+## File Structure 
 Content here...
 
-### Subsection 1.2
-Content here...
+## Licence
