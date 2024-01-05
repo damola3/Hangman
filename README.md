@@ -7,12 +7,12 @@ to display deployment and version control via distributed playforms (Git & GitHu
 command-line interface.
 
 ## Installation
-Content here...
+Download and run the main py in the repository within Python 3. Older versions may not be supported.
 
 ## Usage
-Content here...
+Run the py file of the latest milestone
 
 ## File Structure 
-Content here...
+Each miletone file denotes a distinct stage of development, culminating with the most recent WIP.
 
 ## Licence
