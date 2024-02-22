@@ -90,4 +90,6 @@ def play_game(word_list):
 
 worlist = ['plum', 'apple', 'mango', 'grape', 'lemon'] 
 
-play_game(worlist)
+#We want to play the game only if the file is run directly
+if __name__ == "__main__":
+     play_game(worlist)
